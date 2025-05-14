@@ -36,7 +36,7 @@ cd /var/www/html
 ```
 
 ```bash
-git clone https://github.com/CN8VX/echolinksvx echolinksvx
+git clone https://github.com/CN8VX/Interface-EchoLink-Logs echolinksvx
 ```
 
 ### 2. Vérifier les permissions
