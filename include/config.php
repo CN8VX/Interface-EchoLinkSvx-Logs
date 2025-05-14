@@ -14,7 +14,7 @@ $svxlink_config = '/etc/svxlink/svxlink.conf';
 $TITLEBAN = ("Connection logs for EchoLink from Svxlink");
 
 // Define the logo path.
-// Définir le chemin du logo.
+// Definir le chemin du logo.
 define("LOGO_PATH", "img/M.A.R.R.I_trans.png");
 
 // Sysop Name, nom du sysop
@@ -26,12 +26,12 @@ $refresh_interval = 5;
 // login section
 $CONFIG = [
     // Enable/disable the login function (true = enabled, false = disabled)
-    // Activer/désactiver la fonction de login (true = activé, false = désactivé)
+    // Activer/desactiver la fonction de login (true = active, false = desactive)
     'login_required' => true,
 
     // Show the logged in user and the logout button (true = show, false = hide)
     // This setting only has an effect if login_required is enabled
-    // Afficher l'utilisateur connecté et le bouton de déconnexion (true = afficher, false = cacher)
+    // Afficher l'utilisateur connecte et le bouton de deconnexion (true = afficher, false = cacher)
     // Ce paramètre n'a d'effet que si login_required est activé
     'show_user_info' => true,
 
