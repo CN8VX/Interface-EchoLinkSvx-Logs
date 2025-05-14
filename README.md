@@ -4,5 +4,5 @@ Project developed by **CN8VX** to display and manage **EchoLink connection logs*
 
 Projet développé par **CN8VX** permettant d'afficher et de gérer les **logs de connexion EchoLink** depuis un système **SvxLink** via une interface web simple et sécurisée.
 
-- [English Documentation](README_EN.md)
-- [Documentation Française](README_FR.md)
+- [English Documentation](docs/README_EN.md)
+- [Documentation Française](docs/README_FR.md)
