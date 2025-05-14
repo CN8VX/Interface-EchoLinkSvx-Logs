@@ -28,13 +28,13 @@ $CONFIG = [
     // Enable/disable the login function (true = enabled, false = disabled)
     // Activer/désactiver la fonction de login (true = activé, false = désactivé)
     'login_required' => true,
-    
+
     // Show the logged in user and the logout button (true = show, false = hide)
     // This setting only has an effect if login_required is enabled
     // Afficher l'utilisateur connecté et le bouton de déconnexion (true = afficher, false = cacher)
     // Ce paramètre n'a d'effet que si login_required est activé
     'show_user_info' => true,
-    
+
     // List of users ("username" => "password")
     // These are just examples, you can put any "username" and any "password"
     'users' => [
