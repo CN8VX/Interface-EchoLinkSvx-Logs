@@ -80,14 +80,16 @@ Ouvrez un navigateur web et rendez-vous à :
 ```
 http://[adresse_ip]/echolinksvx
 ```
+---
 
+## Par defult: 
+
+- le login est déactivé.
+- l'affichage de la colone des adresse ip est déactivé
 
 Si le login est activé, le nom d'utilisateur et le mot de passe par défaut sont :
-
-User name : admin
-
-Password : admin
-
+User name: admin
+Password: admin
 
 ---
 
