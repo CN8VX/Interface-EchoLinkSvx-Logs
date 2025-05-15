@@ -84,9 +84,9 @@ http://[adresse_ip]/echolinksvx
 
 Si le login est activé, le nom d'utilisateur et le mot de passe par défaut sont :
 
-User name: admin
+User name : admin
 
-Password: admin
+Password : admin
 
 
 ---
@@ -103,7 +103,7 @@ Ce système est basique et destiné à un usage privé/local. Pour un usage en p
 
 ## 📬 Auteur
 
-- Sysop : **CN8VX**
+- Sysop : **CN8VX** cn8vx.ma@gmail.com
 - Projet EchoLink basé sur **SvxLink**
 
 ---
