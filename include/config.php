@@ -31,7 +31,7 @@ $show_ip_column = false; // true = afficher/show, false = masquer/hide
 $CONFIG = [
     // Enable/disable the login function (true = enabled, false = disabled)
     // Activer/desactiver la fonction de login (true = active, false = desactive)
-    'login_required' => true,
+    'login_required' => false,
 
     // Show the logged in user and the logout button (true = show, false = hide)
     // This setting only has an effect if login_required is enabled
