@@ -47,19 +47,22 @@ sudo chmod 777 -R /var/www/html/echolinksvx
 ```
 
 ### 3. Modifier les paramètres
-Editez le fichier <code>/var/www/html/echolinksvx/include/config.php</code>, vous pouvez personnaliser :
+Editez le fichier <code>/var/www/html/echolinksvx/include/config.php</code>: 
+
+```bash
+sudo nano /var/www/html/echolinksvx/include/config.php
+```
+
+vous pouvez personnaliser :
 
 - Chemins des fichiers de log
 - Chemins du fichier de configuration Svxlink
 - Liste des identifiants et mots de passe des utilisateurs (ex : `"admin" => "admin"`)
 - Logo personnalisé
 - Nom du sysop qui se trouve dans footer
+- Activez/désactivez la colonne d'affichage des adresses IP
 - Activez/désactivez l'authentification selon vos préférences
-
-```bash
-sudo nano /var/www/html/echolinksvx/include/config.php
-```
-
+ 
 ---
 
 ## Exemple de configuration des identifiants utilisateurs
