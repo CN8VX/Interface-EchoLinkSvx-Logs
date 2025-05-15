@@ -62,7 +62,7 @@ if ($CONFIG['login_required'] && (!isset($_SESSION['logged_in']) || $_SESSION['l
                 </a>
             </div>
             <div class="cetr1" id="logTable">
-                <?php echo renderLogTable($log_entries); ?>
+                <?php echo renderLogTable($log_entries, $show_ip_column); ?>
             </div>
             
             <div class="view-more cetr">
