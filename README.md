@@ -13,5 +13,5 @@ Projet développé par **CN8VX** permettant d'afficher et de gérer les **logs d
 - [Documentation d'installation en Française.](docs/README_FR.md)
 
 #
-![exemple-1]<p align="center">(https://raw.githubusercontent.com/CN8VX/Interface-EchoLinkSvx-Logs/refs/heads/main/img/Interface-EchoLink-Logs.png)</p>
+<p align="center">![exemple-1](https://raw.githubusercontent.com/CN8VX/Interface-EchoLinkSvx-Logs/refs/heads/main/img/Interface-EchoLink-Logs.png)</p>
 
