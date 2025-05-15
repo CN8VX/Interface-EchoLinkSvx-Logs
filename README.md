@@ -1,4 +1,4 @@
-# echolinksvx
+# Interface-EchoLink-Logs (alias echolinksvx)
 
 ## English
 For those who have enabled EchoLink in their SvxLink system and want to display connection and disconnection logs, here is Interface-EchoLink-Logs (also known as echolinksvx):
