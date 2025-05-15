@@ -82,16 +82,16 @@ http://[adresse_ip]/echolinksvx
 ```
 ---
 
-## Par defult: 
+## Par defult : 
 
-- le login est déactivé.
-- l'affichage de la colone des adresse ip est déactivé
+- Le login est désactivé.
+- L’affichage de la colonne des adresse IP est désactivé.
 
 Si le login est activé, le nom d'utilisateur et le mot de passe par défaut sont :
 
-User name: admin
+User name : admin
 
-Password: admin
+Password : admin
 
 ---
 
