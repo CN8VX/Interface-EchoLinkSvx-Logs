@@ -64,7 +64,7 @@ if ($CONFIG['login_required'] && (!isset($_SESSION['logged_in']) || $_SESSION['l
             </div>
 
             <div id="logTable">
-                <?php echo renderLogTable($log_entries); ?>
+                <?php echo renderLogTable($log_entries, $show_ip_column); ?>
             </div>
         <?php endif; ?>
     </div>
