@@ -23,6 +23,10 @@ $SYSOP = ("CN8VX");
 // Refresh interval for the table (in seconds)
 $refresh_interval = 5;
 
+// Option pour afficher ou masquer la colonne IP dans les tableaux
+// Option to show or hide the IP column in tables
+$show_ip_column = false; // true = afficher/show, false = masquer/hide
+
 // login section
 $CONFIG = [
     // Enable/disable the login function (true = enabled, false = disabled)
