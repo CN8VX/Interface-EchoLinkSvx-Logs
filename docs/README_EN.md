@@ -81,11 +81,13 @@ Open a web browser and visit:
 http://[your_ip_address]/echolinksvx
 ```
 
-```
+
 If login is enabled, the default username and password are:
-User name: admin
-Password: admin
-```
+
+User name : admin
+
+Password : admin
+
 
 ---
 
@@ -101,7 +103,7 @@ This is a simple interface intended for local/private use. For public or product
 
 ## 📬 Author
 
-- Sysop: **CN8VX**
+- Sysop: **CN8VX** cn8vx.ma@gmail.com
 - EchoLink project based on **SvxLink**
 
 ---
