@@ -81,11 +81,11 @@ Ouvrez un navigateur web et rendez-vous à :
 http://[adresse_ip]/echolinksvx
 ```
 
-```
+
 Si le login est activé, le nom d'utilisateur et le mot de passe par défaut sont :
 User name: admin
 Password: admin
-```
+
 
 ---
 
