@@ -22,7 +22,7 @@ Project developed by **CN8VX** to display and manage **EchoLink connection logs*
 - 🔐 User authentication:
   - You can enable or disable login requirement
   - Displays the currently logged-in user
-  - Simple array-based `user/password` authentication
+  - Simple array-based `utilisateur => mot de passe` authentication
 
 ---
 
