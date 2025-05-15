@@ -53,7 +53,7 @@ Editez le fichier <code>/var/www/html/echolinksvx/include/config.php</code>:
 sudo nano /var/www/html/echolinksvx/include/config.php
 ```
 
-vous pouvez personnaliser :
+Vous pouvez personnaliser :
 
 - Chemins des fichiers de log
 - Chemins du fichier de configuration Svxlink
