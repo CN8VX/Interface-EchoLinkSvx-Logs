@@ -84,19 +84,12 @@ http://[your_ip_address]/echolinksvx
 ## Default installation:
 - Login is disabled.
 - The IP address column is disabled.
-- 
-If login is enabled, the default username and password are:
-
-User name: admin
-
-Password: admin
 
 If login is enabled, the default username and password are:
 
 User name : admin
 
 Password : admin
-
 
 ---
 
