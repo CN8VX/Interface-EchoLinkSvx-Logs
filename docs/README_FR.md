@@ -82,7 +82,7 @@ http://[adresse_ip]/echolinksvx
 ```
 ---
 
-## Par defult : 
+## Installation par default : 
 
 - Le login est désactivé.
 - L’affichage de la colonne des adresse IP est désactivé.
