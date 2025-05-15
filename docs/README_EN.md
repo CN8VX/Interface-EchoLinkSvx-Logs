@@ -47,13 +47,20 @@ sudo chmod 777 -R /var/www/html/echolinksvx
 ```
 
 ### 3. Edit configuration
-Open the file <code>/var/www/html/echolinksvx/include/config.php</code> to customize:
+Open the file <code>/var/www/html/echolinksvx/include/config.php</code> 
+
+```bash
+sudo nano /var/www/html/echolinksvx/include/config.php
+```
+
+To customize:
 
 - Log file paths
 - SvxLink configuration file path
 - User credentials (e.g. `"admin" => "admin"`)
 - Logo file path
 - Sysop name (footer)
+- Enable/disable the IP address display column
 - Enable/disable login
 
 ```bash
