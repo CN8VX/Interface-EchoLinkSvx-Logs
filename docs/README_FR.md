@@ -88,7 +88,9 @@ http://[adresse_ip]/echolinksvx
 - l'affichage de la colone des adresse ip est déactivé
 
 Si le login est activé, le nom d'utilisateur et le mot de passe par défaut sont :
+
 User name: admin
+
 Password: admin
 
 ---
