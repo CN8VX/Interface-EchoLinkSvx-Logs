@@ -179,21 +179,27 @@ function getBaseCallsign($callsign) {
  * @param array $log_entries Array of log entries
  * @return string HTML for the table
  */
-function renderLogTable($log_entries) {
+function renderLogTable($log_entries, $show_ip = true) {
     $html = '<table class="log-table">
         <thead>
             <tr>
                 <th>Date</th>
                 <th>Action</th>
                 <th>Node</th>
-                <th>Indicatif</th>
-                <th>IP</th>
-            </tr>
+                <th>Indicatif</th>';
+    
+    // Only add the IP column header if show_ip is true
+    if ($show_ip) {
+        $html .= '<th>IP</th>';
+    }
+    
+    $html .= '</tr>
         </thead>
         <tbody>';
     
     if (empty($log_entries)) {
-        $html .= '<tr><td colspan="5">Aucune connexion EchoLink trouvée dans les logs</td></tr>';
+        $colspan = $show_ip ? 5 : 4;
+        $html .= '<tr><td colspan="' . $colspan . '">Aucune connexion EchoLink trouvée dans les logs</td></tr>';
     } else {
         foreach ($log_entries as $entry) {
             $base_callsign = getBaseCallsign($entry['indicatif']);
@@ -202,9 +208,14 @@ function renderLogTable($log_entries) {
                 <td class="action">' . htmlspecialchars($entry['action']) . '</td>
                 <td>' . htmlspecialchars($entry['node']) . '</td>
                 <td><a class="lien" href="https://www.qrz.com/db/' . htmlspecialchars($base_callsign) . '" target="_blank">' . 
-                    htmlspecialchars($entry['indicatif']) . '</a></td>
-                <td>' . htmlspecialchars($entry['ip']) . '</td>
-            </tr>';
+                    htmlspecialchars($entry['indicatif']) . '</a></td>';
+            
+            // Only add the IP cell if show_ip is true
+            if ($show_ip) {
+                $html .= '<td>' . htmlspecialchars($entry['ip']) . '</td>';
+            }
+            
+            $html .= '</tr>';
         }
     }
     
