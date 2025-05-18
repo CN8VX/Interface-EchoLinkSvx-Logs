@@ -1,8 +1,11 @@
 # 📡 echolinksvx - Interface EchoLink Logs - SvxLink
 
 Projet développé par **CN8VX** permettant d'afficher et de gérer les **logs de connexion EchoLink** depuis un système **SvxLink** via une interface web simple et sécurisée.
+
 ---
+
 ### **Interface-EchoLink-Logs** est compatible qu'avec SvxLink version 2 (24.02) et ultérieures sous Debian12
+
 ---
 
 ## 🧩 Fonctionnalités
