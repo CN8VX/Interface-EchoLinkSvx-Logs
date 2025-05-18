@@ -199,7 +199,7 @@ function renderLogTable($log_entries, $show_ip = true) {
     
     if (empty($log_entries)) {
         $colspan = $show_ip ? 5 : 4;
-        $html .= '<tr><td colspan="' . $colspan . '">Aucune connexion EchoLink trouvée dans les logs</td></tr>';
+        $html .= '<tr><td colspan="' . $colspan . '">No EchoLink connection found in logs</td></tr>';
     } else {
         foreach ($log_entries as $entry) {
             $base_callsign = getBaseCallsign($entry['indicatif']);
