@@ -5,7 +5,7 @@
 
 # 🔗 Interface-EchoLink-Logs V3.1
 
-<img src="https://flagcdn.com/w20/us.png" width="20"/> **[English](#english)** | <img src="https://flagcdn.com/w20/fr.png" width="20"/> **[Français](#français)**
+<img src="https://flagcdn.com/w20/us.png" width="20"/> **[English](#English)** | <img src="https://flagcdn.com/w20/fr.png" width="20"/> **[Français](#français)**
 
 
 ## <img src="https://flagcdn.com/w20/us.png" width="30"/> English
