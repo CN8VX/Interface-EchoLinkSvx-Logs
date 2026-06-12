@@ -18,7 +18,7 @@ $TITLEBAN = ("Connection logs for EchoLink from Svxlink");
 define("LOGO_PATH", "img/logo.png");
 
 // Sysop Name, nom du sysop
-$SYSOP = ("User-Name");
+$SYSOP = ("Your-CALL");
 
 // Refresh interval for the table (in seconds)
 $refresh_interval = 5;
