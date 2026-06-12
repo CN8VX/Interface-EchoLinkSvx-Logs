@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/badge/version-3.1-purple)
-![SvxLink](https://img.shields.io/badge/SvxLink-2%20(24.02%2B)-blue)
+![SvxLink](https://img.shields.io/badge/SvxLink--blue)
 ![Debian](https://img.shields.io/badge/Debian-12%20%7C%2013-red)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
