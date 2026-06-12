@@ -262,3 +262,7 @@ Pour un déploiement en production publique, il est recommandé d'ajouter :
 ---
 
 *Interface-EchoLink-Logs V3.1 — [**CN8VX**](https://www.qrz.com/db/CN8VX)*
+
+---
+
+<img width="1424" height="1384" alt="Interface-EchoLink-Logs V3 1" src="https://github.com/user-attachments/assets/a9c099dd-2bff-4601-886d-ae193f5f9f59" />
