@@ -5,9 +5,9 @@
 
 # 🔗 Interface-EchoLink-Logs V3.1
 
-<img src="https://flagcdn.com/w20/us.png" width="20"/> **[English](#English)** | <img src="https://flagcdn.com/w20/fr.png" width="20"/> **[Français](#français)**
+<img src="https://flagcdn.com/w20/us.png" width="20"/> **[English](#english)** | <img src="https://flagcdn.com/w20/fr.png" width="20"/> **[Français](#français)**
 
-
+<a name="english"></a>
 ## <img src="https://flagcdn.com/w20/us.png" width="30"/> English
 
 > Lightweight web interface to display and manage EchoLink connection/disconnection logs from **SvxLink**, developed by [**CN8VX**](https://www.qrz.com/db/CN8VX).
