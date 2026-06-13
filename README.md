@@ -82,7 +82,10 @@ You can customize:
 Open your browser and go to one of these addresses:
 
 ```
-http://[ip_address]/echolinksvx
+http://[repeater-ip_address]/echolinksvx
+```
+or
+```
 http://[repeater-hostname]/echolinksvx
 ```
 
@@ -211,7 +214,10 @@ Vous pouvez personnaliser :
 Ouvrez votre navigateur et rendez-vous à l'une de ces adresses :
 
 ```
-http://[adresse_ip]/echolinksvx
+http://[adresse_ip-du-repeteur]/echolinksvx
+```
+ou
+```
 http://[hostname-du-repeteur]/echolinksvx
 ```
 
