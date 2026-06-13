@@ -180,7 +180,7 @@ cd /var/www/html
 git clone https://github.com/CN8VX/echolinksvx echolinksvx
 ```
 
-### 2. Vérifier les permissions
+### 2. Définir les permissions
 
 ```bash
 sudo chmod 777 -R /var/www/html/echolinksvx
